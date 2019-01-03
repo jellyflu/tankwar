@@ -28,7 +28,10 @@ v2.6
 4.  新增右侧属性栏显示我方坦克精神和智力条。另，我方坦克和敌方坦克的
     初始血量、移动速度、发射子弹速度都做了调整.
  
-   
+# 运行截图
+![截图1](https://raw.githubusercontent.com/jellyflu/pub_resouces/master/tankwar/1.png)  
+
+![截图2](https://raw.githubusercontent.com/jellyflu/pub_resouces/master/tankwar/2.png)
 
               
 
